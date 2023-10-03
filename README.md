@@ -3,3 +3,5 @@
 </div>
 
 ## About me
+💻 Web developer
+
