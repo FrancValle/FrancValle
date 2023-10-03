@@ -2,4 +2,4 @@
 <h1 align="center">Hola, soy <a href=""> ☕ Linchito07_Dev</a> 👋</h1>
 </div>
 
-<h1>About me</h1>
+## About me
